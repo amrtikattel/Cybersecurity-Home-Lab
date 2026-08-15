@@ -1,4 +1,3 @@
-#Cyber Security Home Lab!
-
+# Cybersecurity Homela
 This is a Cybersecurity Homelab project that I thought of whilst setting up my own debian home lab. Currently, this will be my documented plans and what I have done with the homelab in order to showcase & learn more things about Cybersecurity and some of its concepts. I also thought it was really fun to pratice these concepts on my homelab as it provides a greater chance for learning. 
-Currently I am using 4 machines, with one being an arch host for a virutal machine running Parrot-OS, another being my personal Debian home server, and another being my own personal laptop as well. I do think that this setup is fine for the most part but I could of improved it.
+Currently I am using 4 machines, with one being an arch host for a virutal machine running Parrot-OS, another being my personal Debian home server, and another being my own personal laptop as well. I do think that this setup is fine for the most part but I could of improved it. I may continually update this repository as I either learn more or I might move on from it as well. 
